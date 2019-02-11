@@ -1,0 +1,16 @@
+C:\Users\Admin\source\repos\QAAssignment2\QAAssignment2\bin\Debug\QAAssignment2.exe.config
+C:\Users\Admin\source\repos\QAAssignment2\QAAssignment2\bin\Debug\QAAssignment2.exe
+C:\Users\Admin\source\repos\QAAssignment2\QAAssignment2\bin\Debug\QAAssignment2.pdb
+C:\Users\Admin\source\repos\QAAssignment2\QAAssignment2\obj\Debug\QAAssignment2.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\QAAssignment2\QAAssignment2\obj\Debug\QAAssignment2.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\QAAssignment2\QAAssignment2\obj\Debug\QAAssignment2.exe
+C:\Users\Admin\source\repos\QAAssignment2\QAAssignment2\obj\Debug\QAAssignment2.pdb
+C:\Users\Admin\Desktop\semester 2\QA\QAAssignment2\QAAssignment2\bin\Debug\QAAssignment2.exe.config
+C:\Users\Admin\Desktop\semester 2\QA\QAAssignment2\QAAssignment2\bin\Debug\QAAssignment2.exe
+C:\Users\Admin\Desktop\semester 2\QA\QAAssignment2\QAAssignment2\bin\Debug\QAAssignment2.pdb
+C:\Users\Admin\Desktop\semester 2\QA\QAAssignment2\QAAssignment2\bin\Debug\nunit.framework.dll
+C:\Users\Admin\Desktop\semester 2\QA\QAAssignment2\QAAssignment2\bin\Debug\nunit.framework.xml
+C:\Users\Admin\Desktop\semester 2\QA\QAAssignment2\QAAssignment2\obj\Debug\QAAssignment2.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\semester 2\QA\QAAssignment2\QAAssignment2\obj\Debug\QAAssignment2.csproj.CopyComplete
+C:\Users\Admin\Desktop\semester 2\QA\QAAssignment2\QAAssignment2\obj\Debug\QAAssignment2.exe
+C:\Users\Admin\Desktop\semester 2\QA\QAAssignment2\QAAssignment2\obj\Debug\QAAssignment2.pdb
